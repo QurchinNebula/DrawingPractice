@@ -1,6 +1,6 @@
 # 每周畫圖練習
 [TOC]
-<!-- ![](https://i.imgur.com/eDZj7wu.png =50%x)
+<!-- ![](https://i.imgur.com/eDZj7wu.png)
 [credit](https://www.dcard.tw/f/funny/p/232949543) -->
 
 ---
@@ -15,7 +15,7 @@
 ###  這個畫廊是怎麼誕生的，用來幹嘛？
 有一天，問號海膽跟 nebula0 在聊天，提到想要來交換繪練畫圖，就這樣誕生了。宗旨是督促大家畫圖的同時，可以互相交流~~散佈告種奇怪的東西~~。想要加入的話，確定你可以接受 [**繪圖規則**](https://hackmd.io/pJvEXCxzRTymc99vGdlTwQ#%E7%B9%AA%E5%9C%96%E8%A6%8F%E5%89%87) 後，在 [**駐館畫手**](https://hackmd.io/pJvEXCxzRTymc99vGdlTwQ#%E9%A7%90%E9%A4%A8%E7%95%AB%E6%89%8B) 填上你希望被稱呼的名字。
 
-![](https://i.imgur.com/Teg7q3N.jpg =50%x)
+![](https://i.imgur.com/Teg7q3N.jpg)
 **有畫圖的你們都好棒！**
 
 ## 主題
